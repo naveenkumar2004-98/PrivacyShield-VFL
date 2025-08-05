@@ -28,14 +28,14 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-username>/PrivacyShield-VFL.git
+   git clone https://github.com/naveenkumar2004-98/PrivacyShield-VFL.git
    ```
 2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 3. **Run the Notebook**
-   - Open `PrivacyShield-VFL.ipynb` in Jupyter Notebook.
+   - Open `Main.ipynb` in Jupyter Notebook.
    - Follow the step-by-step instructions and code cells.
 
 ## Folder Structure
@@ -73,7 +73,7 @@ This project is released under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
-For questions or collaboration, please contact [your-email@example.com].
+For questions or collaboration, please contact [naveen200498kumar@gmail.com].
 
 ---
 
